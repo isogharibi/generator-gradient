@@ -11,3 +11,6 @@ body {
     padding-top: 80px;
     background-image: linear-gradient(to right , #30A2FF , #8696FE , #1B9C85);
 }
+input {
+    margin-top: 20px;
+}
