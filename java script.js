@@ -7,7 +7,7 @@ var showcolor2 = document.getElementById('showcolor2')
 var showcolor3 = document.getElementById('showcolor3') 
 
 function action(){
-    body.style.background = "linear-gradient(to right , " +color1.value+ " , " +color2.value+ " , "+color3.value+");"
+    body.style.background = "linear-gradient(to right , " + color1.value + " , " + color2.value + " , " + color3.value + ")";
     showcolor1.innerHTML = color1.value;
     showcolor2.innerHTML = color2.value;
     showcolor3.innerHTML = color3.value; 
